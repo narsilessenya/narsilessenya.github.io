@@ -4,6 +4,37 @@
   
   
   <entry>
+    <title>唐代纹样交互艺术装置</title>
+    <link href="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/"/>
+    <url>/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/</url>
+    
+    <content type="html"><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>以万花筒原理为灵感，AIGC辅助，使用Processing、Arduino开发原型，唐代纹样与现代科技交融的交互艺术装置</p><h3 id="展板"><a href="#展板" class="headerlink" title="展板"></a>展板</h3><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%A3%85%E7%BD%AE%E5%B1%95%E6%9D%BF.png" alt="唐代纹样交互装置展板"></p><h3 id="PPT节选"><a href="#PPT节选" class="headerlink" title="PPT节选"></a>PPT节选</h3><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/3.png" alt="3"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/4.png" alt="4"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/5.png" alt="5"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/6.png" alt="6"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/7.png" alt="7"></p><h3 id="原型样机"><a href="#原型样机" class="headerlink" title="原型样机"></a>原型样机</h3><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/y1.jpg" alt="y1"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/y2.jpg" alt="y2"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/y3.jpg" alt="y3"></p><h3 id="过程留念"><a href="#过程留念" class="headerlink" title="过程留念"></a>过程留念</h3><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g1.jpg" alt="g1"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g2.jpg" alt="g2"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g3.jpg" alt="g3"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g4.jpg" alt="g4"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g5.jpg" alt="g6"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g7.jpg" alt="g7"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>设计</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>AIGC</tag>
+      
+      <tag>交互装置</tag>
+      
+      <tag>Processing</tag>
+      
+      <tag>Arduino</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>基于StableDiffusion的AIGC角色表情包设计——《祖国的花朵》杨永丽</title>
     <link href="/2024/01/04/%E5%9F%BA%E4%BA%8EStableDiffusion%E7%9A%84AIGC%E8%A7%92%E8%89%B2%E8%A1%A8%E6%83%85%E5%8C%85%E8%AE%BE%E8%AE%A1/"/>
     <url>/2024/01/04/%E5%9F%BA%E4%BA%8EStableDiffusion%E7%9A%84AIGC%E8%A7%92%E8%89%B2%E8%A1%A8%E6%83%85%E5%8C%85%E8%AE%BE%E8%AE%A1/</url>
