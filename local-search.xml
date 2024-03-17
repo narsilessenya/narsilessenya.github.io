@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>唐代纹样交互艺术装置</title>
-    <link href="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/"/>
-    <url>/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/</url>
+    <title>nestooth儿童冲牙器</title>
+    <link href="/2024/03/17/nestooth%E5%84%BF%E7%AB%A5%E5%86%B2%E7%89%99%E5%99%A8/"/>
+    <url>/2024/03/17/nestooth%E5%84%BF%E7%AB%A5%E5%86%B2%E7%89%99%E5%99%A8/</url>
     
-    <content type="html"><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>以万花筒原理为灵感，AIGC辅助，使用Processing、Arduino开发原型，唐代纹样与现代科技交融的交互艺术装置</p><h3 id="展板"><a href="#展板" class="headerlink" title="展板"></a>展板</h3><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%A3%85%E7%BD%AE%E5%B1%95%E6%9D%BF.png" alt="唐代纹样交互装置展板"></p><h3 id="PPT节选"><a href="#PPT节选" class="headerlink" title="PPT节选"></a>PPT节选</h3><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/3.png" alt="3"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/4.png" alt="4"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/5.png" alt="5"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/6.png" alt="6"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/7.png" alt="7"></p><h3 id="原型样机"><a href="#原型样机" class="headerlink" title="原型样机"></a>原型样机</h3><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/y1.jpg" alt="y1"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/y2.jpg" alt="y2"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/y3.jpg" alt="y3"></p><h3 id="过程留念"><a href="#过程留念" class="headerlink" title="过程留念"></a>过程留念</h3><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g1.jpg" alt="g1"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g2.jpg" alt="g2"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g3.jpg" alt="g3"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g4.jpg" alt="g4"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g5.jpg" alt="g6"></p><p><img src="/2024/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g7.jpg" alt="g7"></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>已获得外观专利</p><p>世喜——联合工作坊</p><h3 id="展板"><a href="#展板" class="headerlink" title="展板"></a>展板</h3><p><img src="/2024/03/17/nestooth%E5%84%BF%E7%AB%A5%E5%86%B2%E7%89%99%E5%99%A8/../nestooth%E5%84%BF%E7%AB%A5%E5%86%B2%E7%89%99%E5%99%A8/%E5%B1%95%E6%9D%BF.jpg" alt="展板" loading="lazy"></p>]]></content>
     
     
     <categories>
@@ -20,13 +20,57 @@
     
     <tags>
       
-      <tag>AIGC</tag>
+      <tag>工业设计</tag>
       
-      <tag>交互装置</tag>
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>唐代纹样积木镜面儿童玩具</title>
+    <link href="/2024/03/17/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E7%A7%AF%E6%9C%A8%E9%95%9C%E9%9D%A2%E5%84%BF%E7%AB%A5%E7%8E%A9%E5%85%B7/"/>
+    <url>/2024/03/17/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E7%A7%AF%E6%9C%A8%E9%95%9C%E9%9D%A2%E5%84%BF%E7%AB%A5%E7%8E%A9%E5%85%B7/</url>
+    
+    <content type="html"><![CDATA[<h3 id=""><a href="#" class="headerlink" title=""></a></h3><p>j</p><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>基于唐代纹样交互装置项目期间的研究成果，进一步进行成果转化，设计了唐代纹样积木镜面儿童玩具</p><h3 id="展板"><a href="#展板" class="headerlink" title="展板"></a>展板</h3><p><img src="/2024/03/17/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E7%A7%AF%E6%9C%A8%E9%95%9C%E9%9D%A2%E5%84%BF%E7%AB%A5%E7%8E%A9%E5%85%B7/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E7%A7%AF%E6%9C%A8%E9%95%9C%E9%9D%A2%E5%84%BF%E7%AB%A5%E7%8E%A9%E5%85%B7/%E5%B1%95%E6%9D%BF.jpg" alt="展板" loading="lazy"></p>]]></content>
+    
+    
+    <categories>
       
-      <tag>Processing</tag>
+      <category>设计</category>
       
-      <tag>Arduino</tag>
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>工业设计</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Meow宠物猫陪伴机器人</title>
+    <link href="/2024/02/17/Meow%E5%AE%A0%E7%89%A9%E7%8C%AB%E9%99%AA%E4%BC%B4%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+    <url>/2024/02/17/Meow%E5%AE%A0%E7%89%A9%E7%8C%AB%E9%99%AA%E4%BC%B4%E6%9C%BA%E5%99%A8%E4%BA%BA/</url>
+    
+    <content type="html"><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><blockquote><p>获得2023中国用户体验大赛——vivo——”未来AI生活伴侣畅想“赛道三等奖</p></blockquote><h3 id="展板1"><a href="#展板1" class="headerlink" title="展板1"></a>展板1</h3><p><img src="/2024/02/17/Meow%E5%AE%A0%E7%89%A9%E7%8C%AB%E9%99%AA%E4%BC%B4%E6%9C%BA%E5%99%A8%E4%BA%BA/../Meow%E5%AE%A0%E7%89%A9%E7%8C%AB%E9%99%AA%E4%BC%B4%E6%9C%BA%E5%99%A8%E4%BA%BA/%E5%B1%95%E6%9D%BF1.jpg" alt="展板1" loading="lazy"></p><h3 id="展板2"><a href="#展板2" class="headerlink" title="展板2"></a>展板2</h3><p>![A4 - 1](Meow宠物猫陪伴机器人&#x2F;A4 - 1.png)</p><p>![A4 - 2](Meow宠物猫陪伴机器人&#x2F;A4 - 2.png)</p><p>![A4 - 3](Meow宠物猫陪伴机器人&#x2F;A4 - 3.png)</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>设计</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>工业设计</tag>
       
     </tags>
     
@@ -54,6 +98,37 @@
       <tag>AIGC</tag>
       
       <tag>平面设计</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>唐代纹样交互艺术装置</title>
+    <link href="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/"/>
+    <url>/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/</url>
+    
+    <content type="html"><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>以万花筒原理为灵感，AIGC辅助，使用Processing、Arduino开发原型，唐代纹样与现代科技交融的交互艺术装置</p><h3 id="展板"><a href="#展板" class="headerlink" title="展板"></a>展板</h3><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%A3%85%E7%BD%AE%E5%B1%95%E6%9D%BF.png" alt="唐代纹样交互装置展板" loading="lazy"></p><h3 id="PPT节选"><a href="#PPT节选" class="headerlink" title="PPT节选"></a>PPT节选</h3><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/3.png" alt="3" loading="lazy"></p><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/4.png" alt="4" loading="lazy"></p><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/5.png" alt="5" loading="lazy"></p><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/6.png" alt="6" loading="lazy"></p><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/7.png" alt="7" loading="lazy"></p><h3 id="原型样机"><a href="#原型样机" class="headerlink" title="原型样机"></a>原型样机</h3><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/y1.jpg" alt="y1" loading="lazy"></p><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/y2.jpg" alt="y2" loading="lazy"></p><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/y3.jpg" alt="y3" loading="lazy"></p><h3 id="过程留念"><a href="#过程留念" class="headerlink" title="过程留念"></a>过程留念</h3><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g1.jpg" alt="g1" loading="lazy"></p><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g2.jpg" alt="g2" loading="lazy"></p><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g3.jpg" alt="g3" loading="lazy"></p><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g4.jpg" alt="g4" loading="lazy"></p><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g5.jpg" alt="g6" loading="lazy"></p><p><img src="/2023/10/12/%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/../%E5%94%90%E4%BB%A3%E7%BA%B9%E6%A0%B7%E4%BA%A4%E4%BA%92%E8%89%BA%E6%9C%AF%E8%A3%85%E7%BD%AE/g7.jpg" alt="g7" loading="lazy"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>设计</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>AIGC</tag>
+      
+      <tag>交互装置</tag>
+      
+      <tag>Processing</tag>
+      
+      <tag>Arduino</tag>
       
     </tags>
     
